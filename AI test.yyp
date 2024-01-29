@@ -7,6 +7,7 @@
     {"id":{"name":"spr_employee","path":"sprites/spr_employee/spr_employee.yy",},"order":0,},
     {"id":{"name":"spr_train","path":"sprites/spr_train/spr_train.yy",},"order":3,},
     {"id":{"name":"obj_resource","path":"objects/obj_resource/obj_resource.yy",},"order":0,},
+    {"id":{"name":"scr_employeeTypes","path":"scripts/scr_employeeTypes/scr_employeeTypes.yy",},"order":2,},
     {"id":{"name":"spr_resourcePriority","path":"sprites/spr_resourcePriority/spr_resourcePriority.yy",},"order":2,},
     {"id":{"name":"obj_taskController","path":"objects/obj_taskController/obj_taskController.yy",},"order":6,},
     {"id":{"name":"par_tasks","path":"objects/par_tasks/par_tasks.yy",},"order":5,},

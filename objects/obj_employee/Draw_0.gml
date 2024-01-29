@@ -3,3 +3,4 @@
 
 draw_self();
 draw_text(x, y+40, "is_outside: " + string(is_outdoors));
+draw_text(x, y+60, "profession: " + string(profession));

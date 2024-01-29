@@ -2,5 +2,5 @@
 // You can write your code in this editor
 
 with(obj_taskController) {
-	request_task(move_to_object, other.id, 1);
+	request_task(move_to_object, other.id, 1, other.profession_restriction);
 }

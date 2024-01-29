@@ -33,7 +33,9 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"profession_restriction","path":"objects/par_tasks/par_tasks.yy",},"objectId":{"name":"par_tasks","path":"objects/par_tasks/par_tasks.yy",},"value":"E_TYPE.WORKER",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

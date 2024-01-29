@@ -1,0 +1,9 @@
+
+
+enum E_TYPE {
+	NONE,
+	WORKER,
+	FARMER,
+	FIGHTER,
+	ATTENDANT
+}
